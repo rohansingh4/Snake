@@ -36,4 +36,4 @@ ball.goto(0,0)
 
 #Main
 while True:
-    wn.update()
+   # wn.update()
